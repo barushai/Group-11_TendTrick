@@ -1,6 +1,6 @@
 # [CO5173] Group 11 TikTrend: Nắm bắt trending cho nhà sáng tạo nội dung
 <p align="center">
-  <img src="images/logo.png" alt="TendTrick Logo" width="200"/>
+  <img src="images/logotik.png" alt="TendTrick Logo" width="200"/>
 </p>
 
 Ứng dụng **Streamlit Dashboard** giúp Creator/Marketer ra quyết định nội dung dựa trên log hashtag TikTok:
@@ -345,5 +345,6 @@ tiktok_trending_webapp/
 ---
 
 Nếu bạn muốn mình viết luôn file `requirements.txt` chuẩn theo app hiện tại, mình có thể soạn thêm để bạn chỉ cần `pip install -r requirements.txt` là xong.
+
 
 
