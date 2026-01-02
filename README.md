@@ -1,4 +1,4 @@
-# [CO5173] Group 11 TikTrend: Nắm bắt trending cho nhà sáng tạo nội dung
+# [CO5173] Group 11 TendTrick: Nắm bắt trending cho nhà sáng tạo nội dung
 <p align="center">
   <img src="images/logotik.png" alt="TendTrick Logo" width="350"/>
 </p>
@@ -343,5 +343,6 @@ tiktok_trending_webapp/
 ```
 
 ---
+
 
 
