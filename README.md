@@ -344,8 +344,4 @@ tiktok_trending_webapp/
 
 ---
 
-Nếu bạn muốn mình viết luôn file `requirements.txt` chuẩn theo app hiện tại, mình có thể soạn thêm để bạn chỉ cần `pip install -r requirements.txt` là xong.
-
-
-
 
