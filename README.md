@@ -5,9 +5,6 @@
 - Phân tích **Top Hashtag**, **Momentum**, **Retention**, **Ngành**, **Quốc gia**  
 - **Tab 9:** AI Phân tích Kênh & Gợi ý kịch bản (gọi Gemini qua HTTP)  
 - **Tab 10:** Phân tích **Promote/Quảng cáo trả phí** (tỷ lệ hashtag được gắn Promote)
-
-> ✅ README này viết cho **máy mới toanh** (chưa cài gì) vẫn làm theo được.
-
 ---
 
 ## 1. Yêu cầu hệ thống
@@ -22,7 +19,7 @@
 1. **Python 3.10+**
    - Tải từ: https://www.python.org/downloads/
    - Khi cài **nhớ tick**:
-     - ✅ `Add Python to PATH`
+     - `Add Python to PATH`
 2. (Tuỳ chọn nhưng nên có) **Git**
    - Tải từ: https://git-scm.com/downloads
 
@@ -81,7 +78,7 @@ Sau đó **kích hoạt**:
 
 Nếu thành công, trước dòng lệnh sẽ có `(venv)` hoặc `(.venv)`.
 
-> ❗ Nếu báo lỗi `activate.ps1 bị chặn` trên PowerShell, chạy:
+>  Nếu báo lỗi `activate.ps1 bị chặn` trên PowerShell, chạy:
 > ```powershell
 > Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 > ```
@@ -345,3 +342,4 @@ tiktok_trending_webapp/
 ---
 
 Nếu bạn muốn mình viết luôn file `requirements.txt` chuẩn theo app hiện tại, mình có thể soạn thêm để bạn chỉ cần `pip install -r requirements.txt` là xong.
+
